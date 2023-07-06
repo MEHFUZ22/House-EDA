@@ -1,38 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      color: #333;
-      font-size: 24px;
-    }
-    h2 {
-      color: #333;
-      font-size: 20px;
-    }
-    p {
-      color: #666;
-      font-size: 16px;
-      line-height: 1.5;
-    }
-    table {
-      border-collapse: collapse;
-      margin-top: 20px;
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid #ccc;
-      padding: 8px;
-      text-align: left;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>Problem Statement:</h1>
